@@ -95,6 +95,12 @@ h2 {
     border-radius: 5px;
 }
 
+.experience-item {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
 form {
     display: flex;
     flex-direction: column;
@@ -131,7 +137,7 @@ footer {
     color: #fff;
     text-align: center;
     padding: 10px 0;
-    position: fixed;
-    width: 100%;
+    position: relative;
     bottom: 0;
+    width: 100%;
 }
